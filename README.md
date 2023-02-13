@@ -1,8 +1,4 @@
-Hey, sou o Gustavo
-
-Nasci em São Paulo, porém em 2019 vim para Porto, Portugal...
-
-Sou apaixonado por code e a área tech e um futuro dev 
+Hey
 
 <div>
   <a href="https://github.com/GustaDNS">
