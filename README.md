@@ -1,11 +1,10 @@
  ## 📚 GitHub Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cypherm0nk&theme=soft-green&hide_border=true&card_width=100)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherm0nk&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
-<p align="center">
-  <a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherm0nk&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
-  </a>
-</p>
-
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/GustaDNS/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaDNS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaDNS&show_icons=true)
+ [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GustaDNS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GustaDNS/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GustaDNS&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/GustaDNS/github-readme-stats#gh-light-mode-only)
+ 
  ## 📚 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="cypherm0nk-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
