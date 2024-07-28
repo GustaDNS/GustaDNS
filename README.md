@@ -5,7 +5,7 @@
 </p>
 <br><br>
 
-<h1 align="center">📚 About me</h1>
+### 📚 About me
 
 🎓 Computer science student at [42Porto](https://www.42porto.com/) ✨
 
@@ -13,14 +13,14 @@
 
 💡 Currently working on one of the 42 projects, called Push Swap, which you can check out [here](https://github.com/GustaDNS/Minitalk).
 
-<h1 align="center">⚡ Random Facts</h1>
+### ⚡ Random Facts
 
 -  🌎 &emsp; I Speek two languages: Portuguese, English
 -  ☕ &emsp; I love study about neuroscience and neuroengineer
 - 🎮 &emsp; I enjoy intellectually stimulating games, like chess, league of legends and some fps
 ---
 
-<h1 align="center">📚 Skills</h1>
+### 📚 Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cypherm0nk-C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -32,7 +32,7 @@
 
 </div>
 
-<h1 align="center">💻​ Workstation Tools:</h1>
+### 💻​ Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -43,7 +43,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center">📱​ Contacts:</h1>
+### 📱​ Contacts:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusta.dns/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-daniel-siqueira-ab80761ba/)
@@ -51,7 +51,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1719869154)
 
 
-<h1 align="center">⚙️ GitHub Status</h1>
+### ⚙️ GitHub Status:
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustaDNS&theme=radical&mode=weekly" />
