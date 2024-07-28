@@ -50,10 +50,18 @@
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Gusdns)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1719869154)
 
+### 🎖️ Badges
+
+[![LIBFT](https://github.com/Gustadns/42-project-badges/blob/main/badges/libftm.png)](https://github.com/GustaDNS/) 
+[![FT_PRINTF](https://github.com/GustaDNS/42-project-badges/blob/main/badges/ft_printfn.png)](https://github.com/GustaDNS/ft_printf) 
+[![GET_NEXT_LINE](https://github.com/GustaDNS/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/GustaDNS/get_next_line)
+[![BORN2BEROOT](https://github.com/GustaDNS/42-project-badges/blob/main/badges/born2berootn.png)](https://github.com/GustaDNS/Born2beroot)
+[![MINITALK](https://github.com/GustaDNS/42-project-badges/blob/main/badges/minitalkn.png)](https://github.com/GustaDNS/Minitalk) </h>
+	
 
 ### ⚙️ GitHub Status:
 
-<div  align="center" style="margin-bottom:100px">
+<div style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustaDNS&theme=radical&mode=weekly" />
 <img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustaDNS&show_icons=true&theme=radical&layout=compact" />
  </div>
