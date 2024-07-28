@@ -52,9 +52,9 @@
 
 ### 🎖️ Badges
 
-[![LIBFT](https://github.com/Gustadns/42-project-badges/blob/main/badges/libftm.png)](https://github.com/GustaDNS/libft) 
-[![FT_PRINTF](https://github.com/GustaDNS/42-project-badges/blob/main/badges/ft_printfn.png)](https://github.com/GustaDNS/ft_printf) 
-[![GET_NEXT_LINE](https://github.com/GustaDNS/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/GustaDNS/get_next_line)
+[![LIBFT](https://github.com/Gustadns/42-project-badges/blob/main/badges/libftm.png)](https://github.com/GustaDNS/Libft) 
+[![FT_PRINTF](https://github.com/GustaDNS/42-project-badges/blob/main/badges/ft_printfn.png)](https://github.com/GustaDNS/Ft_printf) 
+[![GET_NEXT_LINE](https://github.com/GustaDNS/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/GustaDNS/Get_next_line)
 [![BORN2BEROOT](https://github.com/GustaDNS/42-project-badges/blob/main/badges/born2berootn.png)](https://github.com/GustaDNS/Born2beroot)
 [![MINITALK](https://github.com/GustaDNS/42-project-badges/blob/main/badges/minitalkn.png)](https://github.com/GustaDNS/Minitalk) </h>
 	
