@@ -11,7 +11,7 @@
 
 📚 Health student before diving into software engineering.
 
-💡 Currently working on one of the 42 projects, you can check here: [Minitalk](https://github.com/GustaDNS/Minitalk).
+💡 Currently working on one of the 42 projects, you can check here: [Push_swap](https://github.com/GustaDNS/Push_swap).
 
 ### ⚡ Random Facts
 
