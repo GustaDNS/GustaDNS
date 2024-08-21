@@ -57,7 +57,7 @@
 [![GET_NEXT_LINE](https://github.com/GustaDNS/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/GustaDNS/Get_next_line)
 [![BORN2BEROOT](https://github.com/GustaDNS/42-project-badges/blob/main/badges/born2berootn.png)](https://github.com/GustaDNS/Born2beroot)
 [![MINITALK](https://github.com/GustaDNS/42-project-badges/blob/main/badges/minitalkn.png)](https://github.com/GustaDNS/Minitalk)
-[![PUSH_SWAP](https://github.com/GustaDNS/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/GustaDNS/Push_swap)
+[![PUSH_SWAP](https://github.com/GustaDNS/42-project-badges/blob/main/badges/push_swapn.png)](https://github.com/GustaDNS/Push_swap)
 	
 
 ### ⚙️ GitHub Status:
