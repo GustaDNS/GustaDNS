@@ -63,8 +63,8 @@
 ### ⚙️ GitHub Status:
 
 <div style="margin-bottom:100px">
-<img width=120% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustaDNS&theme=radical&mode=weekly" />
-<img width=170% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustaDNS&show_icons=true&theme=radical&layout=compact" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustaDNS&theme=radical&mode=weekly" />
+<img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustaDNS&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
