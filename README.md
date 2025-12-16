@@ -16,7 +16,6 @@
 ### ⚡ Random Facts
 
 -  🌎 &emsp; I Speek two languages: Portuguese, English
--  ☕ &emsp; I love study about neuroscience and neuroengineer
 - 🎮 &emsp; I enjoy intellectually stimulating games, like chess, league of legends and some fps
 ---
 
