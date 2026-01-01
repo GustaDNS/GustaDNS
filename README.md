@@ -1,5 +1,3 @@
-<h1 align="center"> HEY, I'M GUSTAVO 🖐️</h1>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </p>
@@ -7,11 +5,9 @@
 
 ### 📚 About me
 
-🎓 Computer science student at [42Porto](https://www.42porto.com/) ✨
+🎓 former computer science student at [42Porto](https://www.42porto.com/) ✨
 
-📚 Health student before diving into software engineering.
-
-💡 Currently working on one of the 42 projects, you can check here: [So_long](https://github.com/GustaDNS/So_long).
+📚 Medical imaging and radiotherapy studant at [E2S](https://www.ess.ipp.pt/)
 
 ### ⚡ Random Facts
 
@@ -49,15 +45,6 @@
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Gusdns)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1719869154)
 
-### 🎖️ Badges
-
-[![LIBFT](https://github.com/Gustadns/42-project-badges/blob/main/badges/libftm.png)](https://github.com/GustaDNS/Libft) 
-[![FT_PRINTF](https://github.com/GustaDNS/42-project-badges/blob/main/badges/ft_printfn.png)](https://github.com/GustaDNS/Ft_printf) 
-[![GET_NEXT_LINE](https://github.com/GustaDNS/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/GustaDNS/Get_next_line)
-[![BORN2BEROOT](https://github.com/GustaDNS/42-project-badges/blob/main/badges/born2berootn.png)](https://github.com/GustaDNS/Born2beroot)
-[![MINITALK](https://github.com/GustaDNS/42-project-badges/blob/main/badges/minitalkn.png)](https://github.com/GustaDNS/Minitalk)
-[![PUSH_SWAP](https://github.com/GustaDNS/42-project-badges/blob/main/badges/push_swapn.png)](https://github.com/GustaDNS/Push_swap)
-	
 
 ### ⚙️ GitHub Status:
 
